@@ -1,0 +1,32 @@
+.resumeTabs {
+  padding-left: 77px;
+  padding-bottom: 15px;
+}
+
+.NavItem1 {
+  background-color: #c0eaea;
+}
+
+.NavItem2 {
+  background-color: #ceefce;
+}
+
+.NavItem3 {
+  background-color: #c4d3d0;
+}
+
+.byuLogo {
+    float: left;
+}
+
+.experienceLogo {
+    float: left;
+    height: 120px;
+    width: 120px;
+}
+
+.churchLogo {
+  float: left;
+  height: 120px;
+  width: 200px;
+}

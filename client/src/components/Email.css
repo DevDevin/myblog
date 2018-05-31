@@ -1,0 +1,20 @@
+.emailForm {
+  padding-left: 77px;
+  padding-bottom: 15px;
+
+}
+
+.modalButton {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 30%;
+}
+
+#formElement {
+  width: 70%;
+}
+
+.messageElement {
+
+}
